@@ -7,8 +7,8 @@ import schedule
 import time
 
 # === Налаштування ===
-TOKEN = 'тут_твій_токен'
-CHAT_ID = 'тут_твій_чат_id'
+TOKEN = '7696482940:AAFVO05tPpHabZl8WE_F-L3EtJt3gG1VMUI'
+CHAT_ID = '@ThisismyFX_BOT'
 bot = Bot(token=TOKEN)
 
 # Часовий пояс Києва
